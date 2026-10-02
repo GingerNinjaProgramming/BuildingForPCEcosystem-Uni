@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{93A212EB-4E95-46F6-1038-C3B78AB9B562}",
+	"EngineAssociation": "{FDF6EBCE-4EDB-F67F-F0A6-51B31CE6B9E8}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "PCEcosystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
