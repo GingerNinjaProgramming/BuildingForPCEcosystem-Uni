@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{93A212EB-4E95-46F6-1038-C3B78AB9B562}",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,10 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	]
